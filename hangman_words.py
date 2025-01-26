@@ -1,4 +1,5 @@
 word_list = [
+'test2',
 'abruptly',
 'book',
 'apple',
