@@ -1,5 +1,6 @@
 word_list = [
 "hello",
+'test2',
 'abruptly',
 'book',
 'apple',
